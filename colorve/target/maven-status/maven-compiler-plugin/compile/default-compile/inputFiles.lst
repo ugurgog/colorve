@@ -1,0 +1,10 @@
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/ColorveApplication.java
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/controller/UserController.java
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/service/IUserService.java
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/model/AuthModel.java
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/service/impl/UserService.java
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/model/User.java
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/repository/UserRepository.java
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/config/MongoDBConfig.java
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/enums/ErrorTypeEnum.java
+/Users/ugur.gogebakan/devel/workspace/colorve/src/main/java/com/example/colorve/model/BaseResponseModel.java
